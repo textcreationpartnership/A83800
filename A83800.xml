@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A petition sent to the Kings Most Excellent Majestie, in Scotland, Novemb. 18. 1641. From the honourable House of Commons, now assembled in Parliament. Humbly requesting, that all Popish-priests, Jesuits, and other ill affected persons, may instantly be banisht the kingdome, and not suffered to be in, or neere the court, at the time of his Majesties returne into England, so to prevent such dangers as otherwise might ensue throgh [sic] their wicked plots and treacherous designes.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83800</idno><idno type="EEBO-CITATION">99859778</idno>
+  <idno type="VID">157100</idno>
+  <idno type="EEBO-PROQUEST">2248515125</idno>
+  
+            <idno type="STC">Wing E2682A</idno>
+            <idno type="STC">Thomason E177_2</idno>
+            <idno type="STC">ESTC R14991</idno>
+            <idno type="PROQUEST">99859778</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99859778e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83800)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157100)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 31:E177[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A petition sent to the Kings Most Excellent Majestie, in Scotland, Novemb. 18. 1641. From the honourable House of Commons, now assembled in Parliament. Humbly requesting, that all Popish-priests, Jesuits, and other ill affected persons, may instantly be banisht the kingdome, and not suffered to be in, or neere the court, at the time of his Majesties returne into England, so to prevent such dangers as otherwise might ensue throgh [sic] their wicked plots and treacherous designes.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Prin ted [sic] for B. W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Identified as Wing P1854 on UMI microfilm set "Early English Books, 1641-1700".</note>
+                  <note>Thomason copy imperfect: significant show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Catholics --  England --  Early works to 1800.</term>
+               <term type="topical_term">Exile (Punishment) --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157100:1"/>
+            <p> A PETITION Sent to THE KINGS Most Excellent MAIESTIE, in SCOTLAND, Novemb. 18. 1641.</p>
+            <p>From the Honourable House of Commons, now Assembled in Parliament.</p>
+            <p>
+               <hi>Humbly requesting,</hi> That all Popish-priests, Jesuits, and other ill affected persons, may instantly be banisht the Kingdome, and not suffered to be in, or neere the Court, at the time of his Majesties Returne into England, so to prevent such dangers as otherwise might ensue throgh their wicked plots and trea<g ref="char:EOLhyphen"/>cherous designes</p>
+            <p>London, Printed for B. W. 1641.</p>
+            <pb facs="tcp:157100:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:157100:2"/>
+            <head>A PETITION Sent to THE KING.</head>
+            <p>WEe Your most Humble and loyall sub<g ref="char:EOLhyphen"/>jects, the Commons in this present Par<g ref="char:EOLhyphen"/>liament assembled, having to our singular com<g ref="char:EOLhyphen"/>fort received your Princely resolution, upon our Humble petition, to dissolve the 2 Treaties; and having on our parts withall alacrity and rea<g ref="char:EOLhyphen"/>dinesse, humbly offered our assistance to your Majesty, to maintaine the warre that may ensue thereupon, yet withall, sensibly finding what se<g ref="char:EOLhyphen"/>ditious and Traiterous positions, these incendi<g ref="char:EOLhyphen"/>aries of <hi>Rome,</hi> the professed engines of <hi>Spaine,</hi> the priests, papists, and Jesuits, infuse into the naturall borne subjects, what numbers they have seduced, and doe daily labour to make their de<g ref="char:EOLhyphen"/>pendance on the Pope of <hi>Rome,</hi> and the King of <hi>Spain,</hi> contrary to the Allegeance to your Maje<g ref="char:EOLhyphen"/>sty, their Liege Lord: what daily resort of
+<pb n="2" facs="tcp:157100:3"/> priests, and Jesuits into the Kingdome? what concourse of popish Recusants, more then usu<g ref="char:EOLhyphen"/>all, are now in, and about the City of London, what boldnesse and insolencie have they discove<g ref="char:EOLhyphen"/>red out of the opinion and other exercises of Roman Religion in the Houses of foraigne Em<g ref="char:EOLhyphen"/>bassadors there is daily, to the great offence of your Majesties good subjects? What great pre<g ref="char:EOLhyphen"/>parations are made in <hi>Ireland</hi> fit for invasion, the bent whereof is as probable to be upon some of your other Kingdomes, as upon any other place, what encouragement it may be to the enemies of our Crowne, to have a party, or but the opinion of a party, who daily encrease together for that purpose, what disheartning to your loving Sub<g ref="char:EOLhyphen"/>jects, when they shall see more cause of feare from their false▪hearted countrey-men at home, then their professed enemies abroad, what appa<g ref="char:EOLhyphen"/>rant dangers, by Gods providence, and your Ma<g ref="char:EOLhyphen"/>jesties Wisedome we have escaped lately?</p>
+            <p>
+               <hi>They in all humblenesse offer to your sacred Maie<g ref="char:EOLhyphen"/>sty, these their humble Petitions following.</hi>
+            </p>
+            <p>First, that all Seminaries, priests, Jesuits, and all others having taken orders by any authority; derived from the see of Rome, may by your Ma<g ref="char:EOLhyphen"/>jesties declaration be forthwith commanded out of this Realme, and all others your Maiesties Dominions, and not to returne againe, upon se<g ref="char:EOLhyphen"/>verest penalties, of the lawes now in force against them.</p>
+            <pb n="3" facs="tcp:157100:3"/>
+            <p> And that all your Majesties subjects may here<g ref="char:EOLhyphen"/>by also be admonished, not to receive, entertain, comfort, or conceale, any of the viporous brood, upon the penalty of forfeiture, which by the lawes may be imposed upon them.</p>
+            <p n="2">2 That your Majesty would be pleased to give strength and speedy charge to the Iustices of the peace in all the parts of this Kingdome, that ac<g ref="char:EOLhyphen"/>cording the lawes in that behalfe made, and the orders taken by your Majesties privy Counsell, hertofore for policy of state, that they do take from all Popish Recusants legally convicted, or judicially suspected.</p>
+            <p>All such Armour, Gunpowder, and Ammu<g ref="char:EOLhyphen"/>nition of any kind, as any of them have either <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n their owne hands, or in the hands of any other for them, and to see the same safely kept and dis<g ref="char:EOLhyphen"/>posed of according to the law.</p>
+            <p n="3">3. That your Majestie would be pleased to command all Popish Recusants, or any other, who by any law are forbidden to come to the Kings Court, forth with under paine of your Majesties high displeasure, and the severe execu<g ref="char:EOLhyphen"/>tion of your Majesties laws against them, to retyre themselves to their severall dwellings or places by your lawes appoynted, there to remaine and be unfined within five miles, according to the lawes of this Realme: and to that purpose to di<g ref="char:EOLhyphen"/>charge all the past licences granted unto them for their repaire thither. And that they presume not
+<pb n="4" facs="tcp:157100:4"/> hereafter to come to <hi>London,</hi> or within ten miles of <hi>London,</hi> or to the Kings or Princes Court wheresoever.</p>
+            <p n="4">4 That your Majesty would forbid and re<g ref="char:EOLhyphen"/>staine the great resort and concours of your Maje<g ref="char:EOLhyphen"/>sties owne subjects, for there hearing of masse and other exercises of Roman Religion, to the hou<g ref="char:EOLhyphen"/>ses of forraign Embassadours or Agents residing here, for the service of their severall Princes or states.</p>
+            <p n="5">5 That whereas of late in severall Counties of this Kingdome, some have beene trusted in the place of Lieutenants, Commissioners, of <hi>Oyer</hi> and <hi>Terminer,</hi> Justices of the peace, and Captaines in their Countries where they dwell, which are either Popish Recusants, or non-communicants, for the space of a yeare now past, or doe not usu<g ref="char:EOLhyphen"/>ally resort to the Church to here divine service, nor bring any good certificate there, that your Majesty would be pleased to discharge them of their places of trust by which they have power in the Country where they live, as is not fit to be put into the hands of such persons so ill affected.</p>
+            <p n="6">6 That your Majesty would be generally plea<g ref="char:EOLhyphen"/>sed to put in execution, all the lawes made against Recusants. And that all Judges, Justices of peace, or other Ministers of justice, to whose care the said things are committed, may be commanded to doe their duty therein.</p>
+            <p n="7">7 Thus seeing we have beene so happily delive<g ref="char:EOLhyphen"/>red
+<pb n="5" facs="tcp:157100:4"/> from that danger which those creatures now dissolved, and that use which your ill-affected subjects made thereof; would certainely have drawne us, and cannot but fore-see and feare, least the like may suddenly happen, which will bring much perill on your Majesties Kingdomes.</p>
+            <p>We are most humble sutors to your Majesty, to secure the health of your subjects, by the in<g ref="char:EOLhyphen"/>gage of your unto them. That upon no occasion of manage or treaty, or any request in that be<g ref="char:EOLhyphen"/>halfe, from any forraigne Prince or state whatso<g ref="char:EOLhyphen"/>ever, you wil take away or slaken the executioner of the hands against Popish Recusants.</p>
+            <p>To which their humble Petitions proceeding from their most royall and dutifull affections to<g ref="char:EOLhyphen"/>wards your sacred Majesty, their care of theit Countries good, and their confident assurance that it will much advance the glory of God, and the everlasting honour of your Majesty.</p>
+            <p>They humbly beseech your Majesty, to vouch<g ref="char:EOLhyphen"/>safe your Answer.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
